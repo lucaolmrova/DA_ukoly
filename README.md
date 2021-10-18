@@ -1,2 +1,2 @@
 # DA_ukoly
-Javascript homework
+Javascript homework from the Digital Academy by Czechitas
